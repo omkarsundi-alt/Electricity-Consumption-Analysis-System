@@ -1,1 +1,0 @@
-# Electricity-Consumption-Analysis-System
